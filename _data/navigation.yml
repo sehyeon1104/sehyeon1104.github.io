@@ -1,5 +1,5 @@
 # main links
-main:
+#main:
   - title: "Category"
     url: /categories/ 
   - title: "Tag"
@@ -7,7 +7,7 @@ main:
   - title: "Search"
     url: /search/
 
-docs:
+#docs:
    - title: "목차"
      children:
        - title: "Category"
