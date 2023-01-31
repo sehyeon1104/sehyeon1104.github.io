@@ -115,7 +115,7 @@ author:
       url: "mailto:sehyeon1104@naver.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://github.com/sehyeon1104/sehyeon1104.github.io"
+      url: "https://sehyeon1104.github.io"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       url: "https://www.facebook.com/profile.php?id=100018058574236"
@@ -127,7 +127,7 @@ author:
       url: "https://www.instagram.com/sehyeon._.1104/"
     - label: "YouTube"
       icon: "fab fa-fw fa-youtube"
-      url: "https://www.youtube.com/@GameDeveloper_Who_Playing_Game/videos"
+      url: "https://www.youtube.com/channel/UCLPSgB8YF9kkVGCtdyMItGg"
 
       
 
@@ -144,6 +144,9 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"  
       url: "https://www.instagram.com/sehyeon._.1104/"
+    - label: "YouTube"
+      icon: "fab fa-fw fa-youtube"  
+      url: "https://www.youtube.com/channel/UCLPSgB8YF9kkVGCtdyMItGg"
 
 
 # Reading Files
