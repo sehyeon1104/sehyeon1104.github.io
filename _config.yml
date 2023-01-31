@@ -105,7 +105,7 @@ analytics:
 # Site Author
 author:
   name             : "sehyeon-Kim"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/fullmetal.png"
   bio              : "게임 개발을 하면서 얻은 지식과 기능을 같이 공유하는 블로그입니다"
   location         : "South Korea"
   email            : 
