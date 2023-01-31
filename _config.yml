@@ -125,6 +125,12 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/sehyeon._.1104/"
+    - label: "YouTube"
+      icon: "fab fa-fw fa-youtube"
+      url: "https://www.youtube.com/@GameDeveloper_Who_Playing_Game/videos"
+
+      
+
 
 # Site Footer
 footer:
